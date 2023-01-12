@@ -1,7 +1,7 @@
 // A interface that describes the User
 
 export interface User {
-  id: number;
+  id: string;
   name: string;
   email: string;
   createdAt: Date;
